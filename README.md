@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Jérémy Cheslet</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=PhD+student+in+Electronics;Embedded+Systems+specialty&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=PhD+in+Electronics;Embedded+Systems+specialty&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded systems-blue" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Languages-French%20%26%20English%20%26%20Japanese-blue" />
 </p>
 <hr/>
-<h4 align="center">PhD student in Bioelectronics working on real-time spike sorting using biomimetic Spiking Neural Networks on FPGA / SoC FPGA.</h4>
+<h4 align="center">PhD in Electronics working on real-time spike sorting using biomimetic Spiking Neural Networks on FPGA / SoC FPGA.</h4>
 <br>
 
 ### ► Description language
